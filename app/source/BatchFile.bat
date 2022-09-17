@@ -1,6 +1,6 @@
 @echo off
 color 0F
-echo [Version 1.0.1]
+echo [Version 1.2.0]
 echo Welcome to Windows Spotlight Image Saver
 echo.
 echo Enter '0' to Exit
