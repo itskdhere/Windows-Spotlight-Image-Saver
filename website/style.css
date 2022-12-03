@@ -112,6 +112,7 @@ a:hover {
     align-items: center;
     margin-top: 30px;
     color: rgb(255, 255, 255);
+    font-size: 25px;
 }
 .thanks{
     display: flex;

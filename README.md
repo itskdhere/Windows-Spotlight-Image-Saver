@@ -1,4 +1,4 @@
-# Windows Spotlight Image Saver v1.2.0
+# Windows Spotlight Image Saver v1.3.0
 Save **Windows Spotlight** Images easily with this Command Line (CLI) Program.
 ## How to Download & Install ?
 
