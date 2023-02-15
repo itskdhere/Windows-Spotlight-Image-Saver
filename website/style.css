@@ -48,6 +48,7 @@ a:link {
 
 a:hover {
     text-decoration: underline;
+    text-decoration-color: rgb(26, 209, 56);;
     color: rgb(255, 255, 255);
 }
 
@@ -113,6 +114,13 @@ a:hover {
     margin-top: 30px;
     color: rgb(255, 255, 255);
     font-size: 25px;
+}
+.downloads a{
+    color: rgb(231, 231, 231);
+}
+.downloads a:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(26, 209, 56);
 }
 .thanks{
     display: flex;

@@ -1,7 +1,7 @@
 @echo off
 color 0F
 echo  Windows Spotlight Image Saver
-echo  Version 1.3.0
+echo  Version 1.3.1
 echo  Download/Update: https://wsis.pages.dev
 echo ----------------------------------------------
 echo.
@@ -100,6 +100,9 @@ del d82c372e3b63a4d3dded87e4dc88d80ff82a64c009a7d447898b797180708bac
 del e2a606189e4beba9d26675333b4653c1ffc8b5cf20d2cd8022d20e3a1f0d2676
 del f37b834b36a7a54bc276fb39ab0572f152504756f72db4b1b1e75f2cd1e9ca7c
 del ff2a6839090e2655d227919e453fab8d338997d2981012e5cdf256c84fb626ce
+del 7e4d5305e5ab9a8a28637b762286107db67d4a13d62ed2d149cce74d82cb025b
+del fe702bfb66f022e453d60d3ef57a1b4889c2f04bb2d5c67ec644ab52712fd453
+del 8900b4bae0b348ea05f9650c4793da0d1a1af444b66594bdf3e8b5366b596c37
 goto rename
 
 :rename

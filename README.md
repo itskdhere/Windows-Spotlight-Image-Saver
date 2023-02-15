@@ -1,11 +1,11 @@
-# Windows Spotlight Image Saver v1.3.0
+# Windows Spotlight Image Saver v1.3.1
 
 Save **Windows Spotlight** Images easily with this Command Line (CLI) Program.
 
 ## How to Download & Install ?
 
 - **Download:**
-  Goto *GitHub Releases* and Download the Latest Version of `WindowsSpotlightImageSaver.zip` **OR** [Click Here (Direct Link)](https://github.com/itskdhere/Windows-Spotlight-Image-Saver/releases/download/v1.3.0/WindowsSpotlightImageSaver-v1.3.0.zip)
+  [Click Here](https://github.com/itskdhere/Windows-Spotlight-Image-Saver/releases/latest)
   
 - **Installation :** 
   Unzip/Decompress the Downloaded File `WindowsSpotlightImageSaver.zip` . The Batch File `WindowsSpotlightImageSaver.bat` is the main program. Then you can Create a Shortcut of the Batch File Manually if you want. That's it.
